@@ -9,6 +9,7 @@ var User   = require('../server/models/user'); // get our mongoose model
 var auth   = require('../server/api/auth');
 var recommendation   = require('../server/api/recommendation');
 
+var ip = process.env.IP || '0.0.0.0'
 var port = process.env.PORT || 8080; // used to create, sign, and verify tokens
 var mongo_db = process.env.MONGOURI || ''
 var app_secret = process.env.APPSECRET || ''
