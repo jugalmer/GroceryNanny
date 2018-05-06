@@ -8,6 +8,7 @@ var jwt    = require('jsonwebtoken'); // used to create, sign, and verify tokens
 var User   = require('../server/models/user'); // get our mongoose model
 var auth   = require('../server/api/auth');
 var recommendation   = require('../server/api/recommendation');
+var usergroceryitem = require('../server/api/usergroceryitem');
 
 var ip = process.env.IP || '0.0.0.0'
 var port = process.env.PORT || 8080; // used to create, sign, and verify tokens
@@ -37,6 +38,8 @@ app.get('/check', function(req, res) {
 
 app.use('/api/auth', auth)
 app.use('/api/recommendation', recommendation)
+app.use('/api/usergroceryitem', usergroceryitem)
+
 var server = app.listen(port, ip, () => {
     console.log("Running on " + server.address().address +" port: " + server.address().port)
 });
