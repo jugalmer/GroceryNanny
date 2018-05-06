@@ -10,6 +10,7 @@
     "elasticsearch": "^14.2.2",
     "express": "^4.13.4",
     "express-jwt": "^3.3.0",
+    "fs": "0.0.1-security",
     "jwks-rsa": "~1.1.1"
   }
 }
