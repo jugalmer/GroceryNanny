@@ -27,11 +27,11 @@ app.use(bodyParser.json());
 // =======================
 // basic route
 app.get('/check', function(req, res) {
-    res.send('Hello! The API is at http://localhost:' + port + '/api');
+    res.send('Hello! The API is at'+ ip +" " + port + '/api');
 });
 
 app.use('/api/auth', auth)
 app.use('/api/recommendation', recommendation)
-var server = app.listen(port, 'localhost', () => {
+var server = app.listen(port, ip, () => {
     console.log("Running on " + server.address().address +" port: " + server.address().port)
 });
