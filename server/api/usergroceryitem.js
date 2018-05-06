@@ -25,12 +25,14 @@ router.post('/', (req, res) => {
     var product_name = req.body["product_name"]
     var cost = req.body["cost"]
     var expiry = req.body["expiry"]
+    var product_img = req.body["product_img"]
     var item = new usergroceryitem({
         product_id: product_id,
         user_id: user_id,
         product_name: product_name,
         cost: cost,
-        expiry: expiry
+        expiry: expiry,
+        product_img: product_img
     })
     console.log(JSON.stringify(item))
 
