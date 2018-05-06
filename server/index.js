@@ -26,6 +26,11 @@ app.use(bodyParser.json());
 // routes ================
 // =======================
 // basic route
+
+app.get('/', (req, res) => {
+    res.json({"msg": "welcome to grocerry nanny app"})
+})
+
 app.get('/check', function(req, res) {
     res.send('Hello! The API is at'+ ip +" " + port + '/api');
 });
