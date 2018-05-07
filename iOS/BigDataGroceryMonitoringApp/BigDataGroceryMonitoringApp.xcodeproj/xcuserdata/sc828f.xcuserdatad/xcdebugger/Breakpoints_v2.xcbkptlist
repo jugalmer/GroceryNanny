@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigDataGroceryMonitoringApp/GroceryViewModel.swift"
+            timestampString = "547346188.770036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "fetchSearchResults(forValue:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigDataGroceryMonitoringApp/GroceryViewModel.swift"
+            timestampString = "547346188.770556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "fetchSearchResults(forValue:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigDataGroceryMonitoringApp/GroceryViewModel.swift"
+            timestampString = "547346188.770647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "fetchSearchResults(forValue:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../SmartWeatherApp/SmartWeatherApp/SmartWeatherApp/SmartWeatherApp/WebService.swift"
+            timestampString = "547346188.770728"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "execute(endPoint:api:urlParams:service:bodyParams:httpMethod:successCallback:errorCallback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../SmartWeatherApp/SmartWeatherApp/SmartWeatherApp/SmartWeatherApp/WebService.swift"
+            timestampString = "547346188.771284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "execute(endPoint:api:urlParams:service:bodyParams:httpMethod:successCallback:errorCallback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigDataGroceryMonitoringApp/StartupTableViewController.swift"
+            timestampString = "547346188.771455"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigDataGroceryMonitoringApp/GroceryModel.swift"
+            timestampString = "547346188.771964"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "expiry"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.String in BigDataGroceryMonitoringApp.RecommendationModel.expiry.getter : Swift.String"
+                  moduleName = "BigDataGroceryMonitoringApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc828f/Desktop/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/GroceryModel.swift"
+                  timestampString = "547345270.510278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.String in closure #1 () -&gt; Swift.String in BigDataGroceryMonitoringApp.RecommendationModel.expiry.getter : Swift.String"
+                  moduleName = "BigDataGroceryMonitoringApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc828f/Desktop/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/GroceryModel.swift"
+                  timestampString = "547345270.511968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigDataGroceryMonitoringApp/GroceryViewModel.swift"
+            timestampString = "547346188.772421"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "addGrocery(pid:pname:pcost:pexp:withCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigDataGroceryMonitoringApp.GroceryViewModel.addGrocery(pid: Swift.Int, pname: Swift.String, pcost: Swift.Int, pexp: Swift.String, withCompletion: (BigDataGroceryMonitoringApp.ServiceResult&lt;Swift.Bool&gt;) -&gt; ()) throws -&gt; ()"
+                  moduleName = "BigDataGroceryMonitoringApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc828f/Desktop/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/GroceryViewModel.swift"
+                  timestampString = "547345270.500187"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BigDataGroceryMonitoringApp.WebServiceResponse) -&gt; () in BigDataGroceryMonitoringApp.GroceryViewModel.addGrocery(pid: Swift.Int, pname: Swift.String, pcost: Swift.Int, pexp: Swift.String, withCompletion: (BigDataGroceryMonitoringApp.ServiceResult&lt;Swift.Bool&gt;) -&gt; ()) throws -&gt; ()"
+                  moduleName = "BigDataGroceryMonitoringApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc828f/Desktop/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/BigDataGroceryMonitoringApp/GroceryViewModel.swift"
+                  timestampString = "547345270.502426"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

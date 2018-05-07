@@ -1,0 +1,37 @@
+{
+  "name": "grocery-nanny",
+  "homepage": "https://github.com/rahuldean/GroceryNanny#readme",
+  "authors": [
+    "Rahul Reddy <rahuldean@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuldean/GroceryNanny.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahuldean/GroceryNanny/issues"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-auth0": "^2.0.0-beta.0",
+    "angular-jwt": "^0.1.9",
+    "angular-ui-router": "~0.3.1",
+    "bootstrap": "~3.3.7",
+    "auth0.js": "^8.4.0"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}
