@@ -1,0 +1,14 @@
+
+{
+    "endpoint": {
+        "global": {
+            "apiSearchGateway"    : "https://efb9d029b5e853c7154e661385276da6.us-central1.gcp.cloud.es.io:9243/",
+            "apiRecommendation"     : "http://corely.eastus.cloudapp.azure.com/"
+        },
+        "api": {
+            "search"          :  "products/product/_search",
+            "recommendation"  : "api/recommendation?user_id=24",
+            "home"            : "api/usergroceryitem?user_id=24"
+        }
+    }
+}
